@@ -7,12 +7,12 @@ Relevant Neos issue: [#2596](https://github.com/Neos-Metaverse/NeosPublic/issues
 ## Sorting Order
 1. Friends with unread messages
 2. Ties broken by online status
-   1. Incoming Friend Requests
-   2. Online Friends
-   3. Neos Bot
-   4. Away Friends
-   5. Sent Requests (background color changed from gray to yellow!)
-   6. Offline Friends
+   1. Online Friends
+   2. Neos Bot
+   3. Away Friends
+   4. Sent Requests (background color changed from gray to yellow!)
+   5. Offline Friends
+   6. Incoming Friend Requests
 3. Further ties broken by username
 
 ## Installation

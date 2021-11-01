@@ -90,7 +90,7 @@ namespace NeosContactsSort
         private static int GetOrderNumber(Friend friend)
         {
             if (friend.FriendStatus == FriendStatus.Requested)
-                return 0;
+                return 6;
             OnlineStatus status = friend.UserStatus?.OnlineStatus ?? OnlineStatus.Offline;
             switch (status)
             {
